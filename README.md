@@ -23,7 +23,7 @@ The Employee Management System is a simple web application designed to perform C
 Below are screenshots of some of the pages in the Employee Management System Web App:
 
 1. **Dashboard Page**:
-   ![Dashboard Page]("/ss/dashboard.png")
+   ![Dashboard Page](/ss/dashboard.png)
 
 2. **Add Employee Page**:
    ![Add Employee Page](/ss/add-employee.png)
